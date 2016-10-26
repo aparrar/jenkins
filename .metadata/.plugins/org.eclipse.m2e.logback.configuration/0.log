@@ -36,3 +36,11 @@
 2016-10-26 12:45:53,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-10-26 12:45:53,027 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-10-26 12:45:53,028 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andresparra/git/redhat-jenkins/ejemploJenkins/src/test/resources
+2016-10-26 12:55:13,771 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cl.cstit.jenkins:ejemploJenkins:1.0 @ /Users/andresparra/git/redhat-jenkins/ejemploJenkins/pom.xml.
+2016-10-26 12:55:14,877 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-26 12:55:14,888 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-26 12:55:14,893 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-26 12:55:14,894 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andresparra/git/redhat-jenkins/ejemploJenkins/src/test/resources
+2016-10-26 12:55:14,895 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ejemploJenkins
+2016-10-26 12:55:14,897 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ejemploJenkins
+2016-10-26 12:55:14,910 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
